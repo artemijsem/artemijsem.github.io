@@ -121,9 +121,8 @@ html {
   }
 
   .photo-logo {
-    width: 10%;
-    height: fit-content;
-    min-width: 10%;
+    width: 3em;
+    
   }
 
   /* Style the top navigation bar */
